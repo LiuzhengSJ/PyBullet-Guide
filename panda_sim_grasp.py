@@ -1,7 +1,7 @@
 import time
 import numpy as np
 import math
-
+import time
 useNullSpace = 1
 ikSolver = 0
 pandaEndEffectorIndex = 11 #8
